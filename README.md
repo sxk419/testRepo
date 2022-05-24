@@ -1,2 +1,2 @@
-cprRep
+testRepo
 ======
